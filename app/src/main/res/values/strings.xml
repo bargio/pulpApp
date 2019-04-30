@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pulp App</string>
+    <string name="server_client_id">293196295020-mqvn6d11o56cagf4ldtsf7ui2qfdu6il.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="facebook_app_id">416699258886645</string>
+    <string name="fb_login_protocol_scheme">fb416699258886645</string>
+
+</resources>

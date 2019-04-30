@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pulpapp-1555504377247",
+  "private_key_id": "6e7b0411fe4b2f4e78a76a14c9be511f8ae2f4f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDo4cSrhB1jAQ0R\nzYPgPHJLqrRYwbGNx1Dcc6S4qJ4qJ3fwlCY2Dq/X7obvXH8RYUTqq7iY0qFcBUnQ\n2GhQzPlDkgDuIRmaP8jSea7l5td74hEDG8oCJ1+kAv9mA7Ys/OwnLT00oQXf4B2a\nHja8bSPDX+MANU+GuVVMkOYI+DVjLcNX1jF0hqsXie5YQOxdn89+/fJ4e1k/PFOo\nNQH7Ot58bfhnh7ROIXnu4nVUbnp9UwnRpFWWzcwkOwILd7iDKNiWmB19GGLk7Dcg\n4P9vVjHRTdAklBXFYighizFBo765aI4wHw1It2QEam3TJZ4uawPqWxC1NfMikw/D\n1J7kne8DAgMBAAECggEAJbQrxcMZiOZqKcg2wi63KIYGNdqCNxyefFqiwBzYoqWK\nNyKdPyJImPKu2QEGN5eic0YDGIb9her7RPtMhExzTNvOF7+3J/CMwHrf9KvXlmCG\n9ZRhs9CRHPo5RFh0fbsjNsKNxsANNe5QjJu4q/AVmrOjCm0XJ45I/6D0BV6+MgSv\nF1qvH8g4+dDrqjxRWLIRaKDv/jeSXeTEcDqrcTlqIfDN3lRktEeZKaoNwtrRvO+M\nGsWaLV5w5PNXPpakLVO2/9F9tWJRicPNlkTsnzRo+LYc0adSzDP8FByHUS6bYSMV\nxFQMwuH8LabPjq8XPnWyDuyNC1Ip+XxLBPaObu4yTQKBgQD/egKLz+nwt+Tfvp7B\nPnK039LhkVLy5v7/l8VUqloaohcynhm6z0FszEkusfi7EUpeyh5/TLCNzmBThd9U\ntebw0B1Mql4zaw3m7KT7PhHCf2NMZE94V6NG0lAEPAHCBK3uqMIWyGi7dMm3sCop\nU/U5kc90lH1TkVRld/VvYJff9wKBgQDpW+h1ByBrVR2k+vAxfbIpgN5NiuT5iFVm\nLwbXQ2smL6dZdxoPVqXrKG6oRFOLoI0ybDMw7GbloolO/ham/xIBXHpSCd52W/qU\n6oarByDwkM0aYb80pPEFeT7t6aKZ09Rhj3+VQj8egLev/ABeOJGxYjGLXNQlJ7sT\nghuKunN+VQKBgHSwV+VgS+xFMmb3/C8rxNzUts+MvyRvWd2IhvtK6+jqTEo0aHAp\nJir5jBul8oQPO7bb/t4KO0IqF1lO9lkM1LT9ecSAtJIrvafSQvD2wsnhwYss7hd7\nf/pjKWUlu2/RD1jJAA3D8AJfL5uU/UzvKjznWqhXAn9fC/tktVfv+K61AoGBAI7a\nQ4A4f6EU9tPDBfzV/JWpnOyNJUSYL+cgzKhETjiPHXwIC/ztxx4gnzUEtrwX6be/\nQsslPIxAppujscxDAwuwR/Ums3dzMP+uXggekgySJ+yJf9pDSoRWR66uwmo2oaGj\nja+aYTdUBp6Fvtfu+0lCWh/9EKU6ICx+DkwrfX4NAoGBAIWnl/jiqfavCGDKzrB3\nm5oH4zKUvxfXumbUb7L8W1r4hdXA6wu+6Yhaj0GxBo0UdwBt4VhMmbolEX0JWVi3\nr9Bgs/QAvBQuln1FheHS8so2HakdKzxvepkp+L6bVCY+xhpnpHY4ZBja3ZevSvya\nzqbwywzbZNOrm+PuQy0ZnAaS\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonaccount@pulpapp-1555504377247.iam.gserviceaccount.com",
+  "client_id": "111034413135788982906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonaccount%40pulpapp-1555504377247.iam.gserviceaccount.com"
+}

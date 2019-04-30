@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293196295020",
+    "firebase_url": "https://pulpapp-1555504377247.firebaseio.com",
+    "project_id": "pulpapp-1555504377247",
+    "storage_bucket": "pulpapp-1555504377247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293196295020:android:f4b395120b169949",
+        "android_client_info": {
+          "package_name": "com.bargio.pulpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293196295020-alc6n3q0lsd78irv0nhs2prlhro99508.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bargio.pulpapp",
+            "certificate_hash": "b42ea7146568c9c43ce8506a234c9da1279d6dcb"
+          }
+        },
+        {
+          "client_id": "293196295020-lrptre9m07si0d7vm9cemfsnqnktnh1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzlJzz7GQBnbDui6WAQ2HYGdyd9gEcnBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293196295020-lrptre9m07si0d7vm9cemfsnqnktnh1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
